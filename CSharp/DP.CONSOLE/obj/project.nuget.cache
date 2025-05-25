@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6x9FkLdZ00ssvTUxboVctw5R5WgWE7Jcs04AV438AZdxNYD2W6gjWJUir5/S6lGc7ZnaHi7t4HaZ49tvkoA3LQ==",
+  "success": true,
+  "projectFilePath": "/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.CONSOLE/DP.CONSOLE.csproj",
+  "expectedPackageFiles": [
+    "/home/neske99/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

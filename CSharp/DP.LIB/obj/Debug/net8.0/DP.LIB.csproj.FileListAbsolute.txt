@@ -1,0 +1,11 @@
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/bin/Debug/net8.0/DP.LIB.deps.json
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/bin/Debug/net8.0/DP.LIB.dll
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/bin/Debug/net8.0/DP.LIB.pdb
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/DP.LIB.GeneratedMSBuildEditorConfig.editorconfig
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/DP.LIB.AssemblyInfoInputs.cache
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/DP.LIB.AssemblyInfo.cs
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/DP.LIB.csproj.CoreCompileInputs.cache
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/DP.LIB.dll
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/refint/DP.LIB.dll
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/DP.LIB.pdb
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/ref/DP.LIB.dll
