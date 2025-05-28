@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using DP.LIB.Behavioral;
 using DP.LIB.Creational;
+using DP.LIB.Structural;
+using DT.LIB.Behavioral;
 
 Console.WriteLine("Hello, World!");
   
@@ -35,12 +38,38 @@ cpy.Show();
 var singleton = MyRandomNumber.Instance();
 singleton.DoStuff();
 //Builder
-var builder1 = new PersonBuilder();
 var builder=Person.Builder;
 Person person = builder.CreatePerson()
   .SpecityName("Ime")
   .SpecifyAge(21)
   .BuildPerson( );
 
+  //Decorator
+IMeal meal = new KetchupMealAddOn(new KetchupMealAddOn( new Burger())); 
+Console.WriteLine(meal.ConsumeMeal());
 
-//Person persona = new Person();
+//Composite
+Triangle t = new Triangle();
+t.Children.Add(new Triangle());
+t.Children.Add(new Triangle());
+t.Children.Add(new Triangle());
+t.Display();
+Console.WriteLine();
+//Chain of responsibility
+
+var sh=new StarHandler(new AmpersendHandler());
+sh.Handle(RequestType.AmpersendPrint,"body!!");
+sh.Handle(RequestType.StarPrint,"!!body!!");
+
+//Memento
+var ct= new Context("neki context");
+var m = ct.GetMemento();
+ct.DoSomething();
+
+var ct1 = new Context("");
+ct1.UpdateState(m);
+ct1.DoSomething();
+//Visitor
+var p = new Pivo("jelen","0.25l");
+var pv=new PrintVisitor();
+p.Accept(pv);

@@ -9,3 +9,4 @@
 /home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/refint/DP.LIB.dll
 /home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/DP.LIB.pdb
 /home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/ref/DP.LIB.dll
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.LIB/obj/Debug/net8.0/DP.LIB.sourcelink.json

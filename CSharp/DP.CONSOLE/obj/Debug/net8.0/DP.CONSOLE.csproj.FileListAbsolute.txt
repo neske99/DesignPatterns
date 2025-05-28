@@ -16,3 +16,4 @@
 /home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.CONSOLE/obj/Debug/net8.0/DP.CONSOLE.pdb
 /home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.CONSOLE/obj/Debug/net8.0/DP.CONSOLE.genruntimeconfig.cache
 /home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.CONSOLE/obj/Debug/net8.0/ref/DP.CONSOLE.dll
+/home/neske99/Desktop/dotnet/DesignPatterns/CSharp/DP.CONSOLE/obj/Debug/net8.0/DP.CONSOLE.sourcelink.json
