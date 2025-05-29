@@ -73,3 +73,10 @@ ct1.DoSomething();
 var p = new Pivo("jelen","0.25l");
 var pv=new PrintVisitor();
 p.Accept(pv);
+//State
+var email = new Email();
+email.MoveToNextState();
+email.MoveToNextState();
+email.MoveToNextState();
+email.MoveToNextState();
+
